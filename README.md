@@ -1,12 +1,76 @@
-# React + Vite
+# 🚀 Rocketseat ReactJS Fundamentals
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém os exercícios, anotações e códigos desenvolvidos durante o curso de **Fundamentos do ReactJS** da [Rocketseat](https://rocketseat.com.br).
 
-Currently, two official plugins are available:
+## 📚 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto foi criado com [Vite](https://vitejs.dev/) para servir como ambiente de estudos, focado nos conceitos fundamentais do ReactJS, como:
 
-## Expanding the ESLint configuration
+- JSX
+- Componentes
+- Propriedades (Props)
+- Estado (useState)
+- Eventos
+- Ciclo de vida (useEffect)
+- Estilização
+- Listas e chaves
+- Componentização
+- Organização de pastas
+- e mais...
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [ESLint](https://eslint.org/)
+- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+
+## ▶️ Como rodar o projeto
+
+Clone o repositório e execute os comandos abaixo:
+
+```bash
+# Instalar as dependências
+npm install
+# ou
+yarn install
+
+# Iniciar o servidor de desenvolvimento
+npm run dev
+# ou
+yarn dev
+```
+
+A aplicação estará disponível em: [http://localhost:3001](http://localhost:3001)
+
+## 🧠 Organização do Projeto
+
+Os commits estão organizados por aula, seguindo o formato:
+
+```
+lesson 01: título da aula
+lesson 02: outro assunto
+...
+```
+
+Isso facilita o acompanhamento da evolução do curso.
+
+## 📂 Estrutura de Pastas
+
+```
+src/
+├── assets/        # Imagens e ícones
+├── components/    # Componentes reutilizáveis
+├── pages/         # Páginas da aplicação
+├── App.jsx        # Componente principal
+├── main.jsx       # Ponto de entrada
+```
+
+## 📝 Licença
+
+Este projeto é apenas para fins de estudo pessoal. Todos os créditos do conteúdo são da [Rocketseat](https://rocketseat.com.br).
+
+---
+
+Feito com 💙 por [André Nicoletti](https://github.com/andregnicoletti)
