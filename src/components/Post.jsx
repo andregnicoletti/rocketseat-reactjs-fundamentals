@@ -29,8 +29,8 @@ export function Post(props) {
                 </p>
                 <p><a href=''>jane.desing</a> </p>
                 <p>
-                    <a href=''>#novoprojeto </a> 
-                    <a href=''>#nwl </a>
+                    <a href=''>#novoprojeto </a> {' '}
+                    <a href=''>#nwl </a> {' '}
                     <a href=''>#rocketseat </a>
                 </p>
             </div>
