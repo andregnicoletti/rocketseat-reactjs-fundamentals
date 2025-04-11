@@ -1,0 +1,37 @@
+{
+  "recommendations": [
+    // 🔧 Lint/Format
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+
+    // ⚛️ React / Web
+    "dsznajder.es7-react-js-snippets",
+    "clinyong.vscode-css-modules",
+    "bradlc.vscode-tailwindcss",
+    "Zignd.html-css-class-completion",
+
+    // ☕ Java
+    "redhat.java",
+    "vscjava.vscode-java-pack",
+    "pivotal.vscode-spring-boot",
+    "vmware.vscode-spring-boot-dev-pack",
+
+    // 🟢 Node.js
+    "ms-vscode.vscode-typescript-next",
+    "xabikos.javascriptsnippets",
+    "ms-azuretools.vscode-docker",
+
+    // 🐳 Docker
+    "ms-azuretools.vscode-docker",
+
+    // 🛠️ Utilitários
+    "eamodio.gitlens",
+    "christian-kohler.path-intellisense",
+    "wix.vscode-import-cost",
+
+    // 🎨 Visual
+    "zhuangtongfa.Material-theme",
+    "PKief.material-icon-theme",
+    "dracula-theme.theme-dracula"
+  ]
+}

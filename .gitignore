@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Ignorar outras configs temporárias
+.vscode/*.code-workspace
+.vscode/tasks.json
